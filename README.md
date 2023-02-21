@@ -28,10 +28,7 @@ The functions can also be run separately, each contains basic parameters to run.
     - mock_consumption.py (request #3)
     - transportation_cost.py (request #4)
     - benchmark.py (request #4)
-
+q
 Each line of code is properly commented.
 
 
-
-
-# gasmeters
